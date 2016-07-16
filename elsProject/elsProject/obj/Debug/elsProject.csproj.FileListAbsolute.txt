@@ -1,0 +1,5 @@
+D:\KTN Porjects\imdad\els\elsProject\elsProject\bin\Debug\elsProject.exe
+D:\KTN Porjects\imdad\els\elsProject\elsProject\bin\Debug\elsProject.pdb
+D:\KTN Porjects\imdad\els\elsProject\elsProject\obj\Debug\elsProject.csprojResolveAssemblyReference.cache
+D:\KTN Porjects\imdad\els\elsProject\elsProject\obj\Debug\elsProject.exe
+D:\KTN Porjects\imdad\els\elsProject\elsProject\obj\Debug\elsProject.pdb
